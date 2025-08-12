@@ -72,7 +72,7 @@ QRollCall is a modern, secure student attendance management system that uses QR 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/qrollcall.git
+   git clone https://github.com/stealthwhizz/qrollcall.git
    cd qrollcall
    ```
 
